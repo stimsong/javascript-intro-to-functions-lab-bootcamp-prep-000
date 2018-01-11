@@ -22,5 +22,5 @@ function sayHiToGrandma(string) {
   return ("YES INDEED!")    // shout
   else
   if (mixedCase)
-  return ("I love you too.")    // love you too
+  return ("I love you, too.")    // love you too
 }
