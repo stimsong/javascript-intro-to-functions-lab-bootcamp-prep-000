@@ -18,11 +18,9 @@ function sayHiToGrandma(string) {
   if (string === lowerCase) {
   return "I can\'t hear you!"
   }
-  else
-  if (string === upperCase)
-  return ("YES INDEED!")    // shout
-  else
-  if (string === mixedCase)
-  return ("I love you, too.")    // love you too
-  
+  else if (string === upperCase) {
+  return ("YES INDEED!")
+  }
+  else if (string === mixedCase) {
+  return ("I love you, too.")}
 }
