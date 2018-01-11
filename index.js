@@ -18,7 +18,7 @@ function sayHiToGrandma(string) {
   if (string === lowercase)
   return ("I can\'t hear you!")    // whisper
   else
-  return    // shout
+  return     // shout
   else
   return    // love you too
 }
